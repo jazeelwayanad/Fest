@@ -284,6 +284,9 @@ address{
   .cordinators{
     flex-direction: column;
   }
+  .Cherurpada,.Malappurampada,.Mampurampada,.Pookoturpada{
+    padding: ;
+  }
 
 }
 @media screen and (max-width: 800px) {
