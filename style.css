@@ -284,10 +284,6 @@ address{
   .cordinators{
     flex-direction: column;
   }
-  .Cherurpada,.Malappurampada,.Mampurampada,.Pookoturpada{
-    padding: ;
-  }
-
 }
 @media screen and (max-width: 800px) {
   .nav-bar{
@@ -356,6 +352,29 @@ address{
 footer img{
   height: 18%;
   width: 18%;
+}
+
+.teams,
+.leaders{
+  padding: 5px;
+}
+.second{
+  padding: 10px;
+}
+.profile{
+  
+width: 150px;
+height: 150px;
+} 
+.leaders h4{
+  font-size: 12pt;
+}
+.leaders p{
+  font-size: 10pt;
+}
+.aboutpara .resultcheck{
+font-size: 20pt;
+padding: 10px 15px;
 }
  
 }
