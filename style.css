@@ -316,6 +316,7 @@ address{
   width: 100%;
   color: black;
   max-width: 450px;
+  z-index: 2;
   top: 0;
   left: -100%;
   display: flex;
